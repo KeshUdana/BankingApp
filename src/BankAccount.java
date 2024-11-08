@@ -1,10 +1,13 @@
 public class BankAccount {
-    private Long accountNumber;
+    private int accountNumber;
     private double balance;
 
-    public Long getAccountNumber(){return accountNumber;}
+    public BankAccount(int i, double v) {
+    }
+
+    public int getAccountNumber(){return accountNumber;}
     public double getBalance(){return balance;}
-    public void setAccountNumber(Long accountNumber){
+    public void setAccountNumber(int accountNumber){
         this.accountNumber=accountNumber;
     }
     public void setBalance(double balance){
