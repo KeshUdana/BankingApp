@@ -1,5 +1,3 @@
-Here's a detailed, easy-to-understand explanation of how each part of the code works:
-
 ---
 
 ### Overview
